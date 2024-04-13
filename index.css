@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(228, 214, 255);
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container div{
+    background-color: white;
+    height: 40vh;
+    width: 40vw;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
